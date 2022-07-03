@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @einfachZaubiii
 - 👀 I’m interested in coding and designing
 - 🌱 I’m currently learning python, HTML, CSS
-- 💞️ I’m looking to collaborate with @electroJo
+- 💞️ I’m looking to collaborate with @T-electroJo
 - 📫 How to reach me:
 -           -Discord: einfachZabui#8008
 
